@@ -10,7 +10,7 @@ RUN apk add --no-cache \
 	curl \
 	git \
 	openssh-client \
-	python \
+	python3 \
 	tar \
 	gzip
 
